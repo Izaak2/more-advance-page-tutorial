@@ -28,3 +28,16 @@ button.coolStuffBtn {
     display: block;
     margin: auto;
 }
+
+h5.modal-title {
+margin: 0 auto;
+}
+
+.modal-form-wrapper {
+    padding: 2rem;
+}
+
+img.img-centre {
+    display: block;
+    margin: auto;
+}
