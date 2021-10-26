@@ -39,5 +39,17 @@ img.img-centre {
 }
 
 div.textSectionWrapper {
-    padding: 1rem 3rem 0 3rem;
+    padding: 1rem 3rem 1rem 3rem;
+}
+
+img.img-footer{
+    padding: 10px;
+}
+
+.fa-ad{
+    color:#2196F3
+}
+
+div.icon-wrapper {
+    margin: auto;
 }
