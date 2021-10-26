@@ -29,10 +29,6 @@ button.coolStuffBtn {
     margin: auto;
 }
 
-h5.modal-title {
-margin: 0 auto;
-}
-
 .modal-form-wrapper {
     padding: 2rem;
 }
@@ -40,4 +36,8 @@ margin: 0 auto;
 img.img-centre {
     display: block;
     margin: auto;
+}
+
+div.textSectionWrapper {
+    padding: 1rem 3rem 0 3rem;
 }
